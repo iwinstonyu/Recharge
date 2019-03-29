@@ -1,0 +1,11 @@
+{
+	"servers": {
+		"1": {
+			"host": "127.0.0.1",
+			"port": "3307",
+			"user": "lp",
+			"password": "123",
+			"database": "lobby_slg_qa1"
+		}
+	}
+}
